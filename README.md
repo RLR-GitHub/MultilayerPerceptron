@@ -1,13 +1,11 @@
 # MultilayerPerceptron in VHDL
 
 # Perceptron
-
-<img align="center" width="500" height="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/perceptron.PNG" />
-
+<p>
+  <img align="center" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/perceptron.PNG" />
+</p>
 
 # Training Diagram
-<p align="center">
-</p>
 
 ![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_diagram.png)
 
