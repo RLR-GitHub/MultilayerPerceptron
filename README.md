@@ -9,10 +9,7 @@
 <img align="center" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_diagram.png" >
 
 # Testing Diagram
-<img src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_diagram.png" >
-
-# Testing Diagram
-![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_diagram.png)
+<img align="center" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_diagram.png" >
 
 # Equations
 ### Sigmoid Activation 
