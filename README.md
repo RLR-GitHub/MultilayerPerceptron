@@ -39,7 +39,9 @@
 
 ## Python Testing Results
 <img align="right" width="250" height="250" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG">
-<p aligh = "center"></p>
+<p align = "center"></p>
+
+
 # VHDL Implementation
 ## VHDL Training Results
 ![Training](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/actual.PNG)
