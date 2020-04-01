@@ -6,6 +6,7 @@
 
 <p>
 <br/>
+  <align = "left">
 </p>
 
 # Training Diagram
