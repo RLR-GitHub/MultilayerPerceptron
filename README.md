@@ -10,7 +10,7 @@
 
 # Testing Diagram
 <p align="center">
-  <img align="center" width="750" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_diagram.png" >
+  <img width="750" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_diagram.png" >
 </p>
 
 # Equations
