@@ -13,7 +13,11 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 ### Weight Matrix: W 
 
+<img src="https://render.githubusercontent.com/render/math?math=\triangle{W_kj} = d_k - y_k ">
+
 ### Weight Matrix: V
+
+<img src="https://render.githubusercontent.com/render/math?math=\delta_k = d_k - y_k ">
 
 ### Updated Weight Matrix: W 
 
@@ -26,9 +30,6 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 ## Python Testing Results
 ![Testing](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG)
-
-
-<img src="https://render.githubusercontent.com/render/math?math=\delta_k = d_k - y_k ">
 
 # VHDL Implementation
 ## VHDL Training Results
