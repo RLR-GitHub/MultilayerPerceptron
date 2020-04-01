@@ -51,8 +51,15 @@
 ##
 
 # VHDL Implementation
+
 ## VHDL Training Results
-![Training](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/actual.PNG)
+
+<p align = "center">
+    <img width="500" height="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/actual.PNG">
+</p>
 
 ## VHDL Testing Results
-![Testing](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/target.PNG)
+
+<p align = "center">
+    <img width="500" height="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/target.PNG">
+</p>
