@@ -3,12 +3,12 @@
 
 https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
-\frac{\sigma}{\mu}
-
 # Perceptron
 ![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/perceptron.PNG)
 
-# Python 
+# Equations
+
+# Python Implementation 
 
 ## Python Training Results
 ![Training](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG)
@@ -19,7 +19,7 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 <img src="https://render.githubusercontent.com/render/math?math=\delta_k = d_k - y_k ">
 
-# VHDL
+# VHDL Implementation
 ## VHDL Training Results
 
 ## VHDL Testing Results
