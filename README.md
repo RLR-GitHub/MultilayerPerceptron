@@ -13,7 +13,7 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 ### Weight Matrix: W 
 
-<img src="https://render.githubusercontent.com/render/math?math=\triangle{W_{kj}} = \rho z_j ( 1 - z_j ) x_i \sum_{k=1}^{\K} (\delta_k w_{kj})"> * for j = 1,2,...,J *
+<img src="https://render.githubusercontent.com/render/math?math=\triangle{W_{kj}} = \rho z_j ( 1 - z_j ) x_i \sum_{k=1}^{\K} (\delta_k w_{kj})"> *for j = 1,2,...,J*
 
 ### Weight Matrix: V
 
