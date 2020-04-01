@@ -8,10 +8,15 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 # Equations
 ### Delta 
+
 <img src="https://render.githubusercontent.com/render/math?math=\delta_k = d_k - y_k ">
+
 ### Weight Matrix: W 
+
 ### Weight Matrix: V
+
 ### Updated Weight Matrix: W 
+
 ### Updated Weight Matrix: V
 
 # Python Implementation 
