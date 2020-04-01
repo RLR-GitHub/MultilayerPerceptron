@@ -42,5 +42,7 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 # VHDL Implementation
 ## VHDL Training Results
+![Training](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/actual.PNG)
 
 ## VHDL Testing Results
+![Testing](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/target.PNG)
