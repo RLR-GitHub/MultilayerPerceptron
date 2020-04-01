@@ -2,11 +2,9 @@
 
 # Perceptron
 
-<p>
-<br />
 <img align="left" width="500" height="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/perceptron.PNG">
 <br/>
-</p>
+
 
 # Training Diagram
 ![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_diagram.png)
