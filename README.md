@@ -32,8 +32,9 @@
 # Python Implementation 
 
 ## Python Training Results
-<img align="left" width="250" height="250" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
-
+<p align="center">
+  <img width="250" height="250" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
+</p>
 ## Python Testing Results
 <img align="right" width="250" height="250" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG">
 
