@@ -9,7 +9,7 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 # Equations
 ### Delta 
 
-<img src="https://render.githubusercontent.com/render/math?math=\delta_k = ( d_k - y_k ) y_k ( 1 - y_k ) ">
+<img src="https://render.githubusercontent.com/render/math?math=\delta_k = ( d_k - y_k ) y_k ( 1 - y_k ) "> *for k = 1,2,...,K*
 
 ### Weight Matrix: W 
 
@@ -17,7 +17,7 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 ### Weight Matrix: V
 
-<img src="https://render.githubusercontent.com/render/math?math=\triangle{V_{ji}} = \rho z_j ( 1 - z_j ) x_i \sum_{k=1}^{\K} (\delta_k w_{kj})"> *for j = 1,2,...,J, i = 1,2,...,n*
+<img src="https://render.githubusercontent.com/render/math?math=\triangle{V_{ji}} = \rho z_j ( 1 - z_j ) x_i \sum_{k=1}^{\K} (\delta_k w_{kj})"> *for j = 1,2,...,J and i = 1,2,...,n*
 
 ### Updated Weight Matrix: W 
 
