@@ -8,7 +8,7 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 # Equations
 ### Sigmoid Activation 
-<img src="https://render.githubusercontent.com/render/math?math=y = \frac{1}{1 --\pm \dashv {\epsilon}^{ -x }}"> 
+<img src="https://render.githubusercontent.com/render/math?math=y = \frac{1}{1 --\pm \dashv - {\epsilon}^{ -x }}"> 
 
 ### Delta 
 <img src="https://render.githubusercontent.com/render/math?math=\delta_k = ( d_k - y_k ) y_k ( 1 - y_k ) "> *for k = 1,2,...,K*
