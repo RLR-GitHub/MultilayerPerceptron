@@ -5,9 +5,11 @@
   <img align="center" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/perceptron.PNG" />
 </p>
 
-# Training Diagram
-
-![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_diagram.png)
+# Training Diagram (LHS) and Testing Diagram (RHS)
+<p>
+  <img align="left" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_diagram.png" >
+  <img align="right" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_diagram.png" >
+</p>
 
 # Testing Diagram
 ![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_diagram.png)
