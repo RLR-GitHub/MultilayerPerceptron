@@ -36,26 +36,23 @@
 # Python Implementation 
 
 ## Python Training Results
+
 <p align="center">
-  <img width="500" height="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
+  <img width="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
 </p>
 
 
 ## Python Testing Results
+
 <p align="center">
-  <img width="500" height="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG">
+  <img width="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG">
 </p>
-
-<p align = "left"></p>
-
-##
 
 # VHDL Implementation
 
 ## VHDL Training Results
 
-<p>
-  <align = "center">
+<p align = "center">
     <img width="750" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/actual.PNG">
 </p>
 
