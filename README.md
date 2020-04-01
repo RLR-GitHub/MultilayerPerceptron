@@ -36,6 +36,7 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 ## Python Training Results
 <img align="right" width="100" height="100" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
+
 ## Python Testing Results
 ![Testing](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG)
 
