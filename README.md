@@ -1,6 +1,4 @@
-# MultilayerPerceptron in VHDL
-
-# Perceptron
+# Single Perceptron
 <p>
   <img align="center" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/perceptron.PNG" />
 </p>
@@ -32,32 +30,27 @@
 ### Updated Weight Matrix: V
 <img src="https://render.githubusercontent.com/render/math?math={V_{ji}}^{t\'} = {v_{ji}}^{t} + \triangle{v_{ji}}"> 
 
-
-# Python Implementation 
-
 ## Python Training Results
 
 <p align="center">
-  <img width="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
+  <img width="300" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
 </p>
 
 
 ## Python Testing Results
 
 <p align="center">
-  <img width="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG">
+  <img width="300" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG">
 </p>
-
-# VHDL Implementation
 
 ## VHDL Training Results
 
 <p align = "center">
-    <img width="750" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/actual.PNG">
+    <img width="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/actual.PNG">
 </p>
 
 ## VHDL Testing Results
 
 <p align = "center">
-    <img width="750" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/target.PNG">
+    <img width="500" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/target.PNG">
 </p>
