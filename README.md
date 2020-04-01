@@ -1,7 +1,4 @@
-# MultilayerPerceptron
-
-
-https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
+# MultilayerPerceptron in VHDL
 
 # Perceptron
 ![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/perceptron.PNG)
@@ -35,10 +32,10 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 # Python Implementation 
 
 ## Python Training Results
-<img align="right" width="100" height="100" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
+<img align="left" width="250" height="250" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_result_matrices.PNG">
 
 ## Python Testing Results
-![Testing](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG)
+<img align="right" width="250" height="250" src="https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/testing_result_matrices.PNG">
 
 # VHDL Implementation
 ## VHDL Training Results
