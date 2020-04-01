@@ -8,12 +8,9 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 # Equations
 ### Sigmoid Activation 
-<img src="https://render.githubusercontent.com/render/math?math=y = \frac{1}{1 {\texttt{+}} {\epsilon}^{ -x }}"> 
+<img src="https://render.githubusercontent.com/render/math?math=y = \frac{1}{1 {\p} {\epsilon}^{ -x }}"> 
 
 ### Delta 
-$$
-\[y\]
-$$
 <img src="https://render.githubusercontent.com/render/math?math=\delta_k = ( d_k - y_k ) y_k ( 1 - y_k ) "> *for k = 1,2,...,K*
 
 ### Weight Matrix: W 
