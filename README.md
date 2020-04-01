@@ -3,6 +3,8 @@
 
 https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
+\frac{\sigma}{\mu}
+
 # Perceptron
 ![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/perceptron.PNG)
 
