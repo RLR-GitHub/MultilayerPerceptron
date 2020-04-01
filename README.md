@@ -10,6 +10,9 @@
 </p>
 
 # Training Diagram
+<p align="center">
+</p>
+
 ![Perceptron](https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/images/training_diagram.png)
 
 # Testing Diagram
