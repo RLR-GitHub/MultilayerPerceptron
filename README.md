@@ -23,7 +23,8 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 <img src="https://render.githubusercontent.com/render/math?math={W_{kj}}^{t\'} = {w_{kj}}^{t} + \triangle{w_{kj}}"> 
 
 ### Updated Weight Matrix: V
-<img src="https://render.githubusercontent.com/render/math?math=\triangle{V_{ji}} = \rho z_j ( 1 - z_j ) x_i \sum_{k=1}^{\K} (\delta_k w_{kj})"> *for j = 1,2,...,J and i = 1,2,...,n*
+<img src="https://render.githubusercontent.com/render/math?math={V_{ji}}^{t\'} = {v_{ji}}^{t} + \triangle{v_{ji}}"> 
+
 
 # Python Implementation 
 
