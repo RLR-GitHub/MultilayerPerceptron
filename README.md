@@ -13,7 +13,7 @@ https://github.com/RLR-GitHub/MultilayerPerceptron/blob/master/perceptron.PNG
 
 ### Weight Matrix: W 
 
-<img src="https://render.githubusercontent.com/render/math?math=\triangle{W_(kj)} = d_k - y_k ">
+<img src="https://render.githubusercontent.com/render/math?math=\triangle{W_{kj}} = d_k - y_k ">
 
 ### Weight Matrix: V
 
