@@ -21,18 +21,21 @@ $$
 $$
 \delta_k = (d_k - y_k) \, y_k \, (1 - y_k)
 $$
+
 *for \( k = 1,2,...,K \)*
 
 ### Weight Matrix: \( W \)
 $$
 \Delta W_{kj} = \rho \, \delta_k \, z_j
 $$
+
 *for \( j = 1,2,...,J \)*
 
 ### Weight Matrix: \( V \)
 $$
 \Delta V_{ji} = \rho \, z_j (1 - z_j) \, x_i \sum_{k=1}^{K} (\delta_k w_{kj})
 $$
+
 *for \( j = 1,2,...,J \) and \( i = 1,2,...,n \)*
 
 ### Updated Weight Matrix: \( W \)
